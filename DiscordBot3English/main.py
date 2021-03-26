@@ -3,7 +3,7 @@ from discord.ext import commands
 from covid import Covid
 import time
 
-Token = 'ODIzNDg5NTYxNTg1Mzg1NDcy.YFhkaw.CegiIXIdRo770v540yOKj_Ow9pE' #insert token here
+Token = '' #insert token here
 
 description = '''Covid Bot'''
 bot = commands.Bot(command_prefix="-", description=description)
