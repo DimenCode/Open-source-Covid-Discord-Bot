@@ -1,0 +1,7 @@
+how to use the bot ?
+
+the bot request the Discord api and the Covid api.
+instructions for the covid api here : https://www.geeksforgeeks.org/how-to-get-covid-19-update-using-covid-module-in-python/
+
+Discord part : to get covid data from a country, do "-covid {id of the country}"
+IDs can be found in the document "CountryId"
