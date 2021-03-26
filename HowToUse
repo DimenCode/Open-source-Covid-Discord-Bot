@@ -5,3 +5,16 @@ instructions for the covid api here : https://www.geeksforgeeks.org/how-to-get-c
 
 Discord part : to get covid data from a country, do "-covid {id of the country}"
 IDs can be found in the document "CountryId"
+
+Exemple : 
+input : 
+-covid 88
+
+output :
+Covid data : 
+Country : 'Japan'
+Confirmed cases : 462648
+Active : 16146
+Deaths : 8956
+Recovered : 437546
+Date : 26/3/2021
